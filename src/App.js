@@ -5,14 +5,14 @@ import Redesign from './pages/Redesign.js'
 import Iterative from './pages/Iterative';
 import Development from './pages/Development'
 
-import { BrowserRouter, Routes, Route} from 'react-router-dom';
+import { Routes, Route, HashRouter} from 'react-router-dom';
 
 
 
 function App() {
   return (
     <div className="JumpingRabbitPortfolio">
-      <BrowserRouter>
+      <HashRouter>
       <Routes>
         <Route path="/" element={<Main/>}>
           <Route index element={<Home/>} />
@@ -22,7 +22,7 @@ function App() {
           <Route path="development" element={<Development/>} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
     </div>
   );
 }
