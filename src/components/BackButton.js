@@ -2,7 +2,7 @@ import React from 'react'
 
 const BackButton = () => {
     const goHome = () => {
-        window.open("/", "_self");
+        window.open("./", "_self");
     }
 
     return (
