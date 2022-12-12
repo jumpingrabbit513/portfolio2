@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio2/static/css/main.d34fb919.css",
-    "main.js": "/portfolio2/static/js/main.81a25add.js",
+    "main.js": "/portfolio2/static/js/main.6bac308d.js",
     "static/js/496.aa0108e0.chunk.js": "/portfolio2/static/js/496.aa0108e0.chunk.js",
     "static/media/redesign-full.png": "/portfolio2/static/media/redesign-full.83e39f8a92254d6f7f2a.png",
     "static/media/landdweller.png": "/portfolio2/static/media/landdweller.2ac5a5a494953a5ef9d2.png",
@@ -42,11 +42,11 @@
     "static/media/nyu-logo.svg": "/portfolio2/static/media/nyu-logo.739fdd6d5864c1987519415fcb52b037.svg",
     "index.html": "/portfolio2/index.html",
     "main.d34fb919.css.map": "/portfolio2/static/css/main.d34fb919.css.map",
-    "main.81a25add.js.map": "/portfolio2/static/js/main.81a25add.js.map",
+    "main.6bac308d.js.map": "/portfolio2/static/js/main.6bac308d.js.map",
     "496.aa0108e0.chunk.js.map": "/portfolio2/static/js/496.aa0108e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d34fb919.css",
-    "static/js/main.81a25add.js"
+    "static/js/main.6bac308d.js"
   ]
 }
