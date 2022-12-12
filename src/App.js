@@ -14,7 +14,7 @@ function App() {
     <div className="JumpingRabbitPortfolio">
       <HashRouter>
       <Routes>
-        <Route path="/" element={<Main/>}>
+        <Route path="./" element={<Main/>}>
           <Route index element={<Home/>} />
           <Route path="personas" element={<Personas/>} />
           <Route path="redesign" element={<Redesign/>} />
